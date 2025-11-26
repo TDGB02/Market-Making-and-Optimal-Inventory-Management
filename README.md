@@ -1,1 +1,1 @@
-# Market-Making-and-Optimal-Inventory-Management
+# Market Making and Optimal Inventory Management
