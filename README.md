@@ -1,6 +1,6 @@
 # Optimal Market Making and Inventory Management
 
-This repository contains the work developed as part of our **first-year master's thesis** at Dauphine--PSL, under the supervision of Dr. Philippe Bergault (CEREMADE).
+This repository contains the work developed as part of our **first-year master's thesis** at Dauphine-PSL, under the supervision of Dr. Philippe Bergault (CEREMADE).
 
 
 ## Objectives
